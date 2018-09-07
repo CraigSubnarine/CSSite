@@ -920,6 +920,9 @@ a.scrollup:hover{
 =========================== */
 
 /* footer social icons */
+.social-network a.icoInstagram:hover {
+	background-color: #fcaf45;
+}
 .social-network a.icoRss:hover {
 	background-color: #000000;
 }
@@ -938,7 +941,7 @@ a.scrollup:hover{
 .social-network a.icoLinkedin:hover {
 	background-color:#007bb7;
 }
-.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoInstagram:hover i, .social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
 .social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
 	color:#fff;
 }
